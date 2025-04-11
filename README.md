@@ -24,6 +24,7 @@ git clone https://github.com/Sanju-1114/rock-paper-scissors.git
 
 
 
+
 📁 Project Structure
 
 /rock-paper-scissors
@@ -33,3 +34,6 @@ git clone https://github.com/Sanju-1114/rock-paper-scissors.git
 ├── rock-paper-scissors.js         # 🧠 JavaScript logic for gameplay (score, results)
 ├── script.js                      # 🔁 Game hub redirection logic (switching between games)
 ├── style.css                      # 🧰 Optional: Shared/global styles for multi-game projects
+
+
+
