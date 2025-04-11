@@ -1,30 +1,35 @@
-# Rock Paper Scissors Game 🎮✊📄✂️
+# 🎮 Rock Paper Scissors Game ✊📄✂️
 
-A fun and interactive Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. This game is part of a larger collection of mini-games.
+A fun, browser-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and **JavaScript**. This game is also part of a **multi-game hub** that allows users to switch between various classic games.
+
+---
 
 ## 🧩 Features
 
-- Clickable UI for choosing Rock, Paper, or Scissors
-- Real-time score tracking for the user and computer
-- Dynamic messages and visual feedback for win/loss/draw
-- Responsive layout with hover effects
-- Simple and clean design
+- 🎯 Easy click-to-play interface
+- 📈 Real-time score tracking (User vs Computer)
+- 🧠 Random computer choice generation
+- 🖼️ Dynamic UI feedback for win, loss, or draw
+- 🖱️ Hover effects and smooth styling
+- 🧭 Integrated with a game hub via `script.js`
+
+---
 
 ## 🚀 Getting Started
 
-### 1. Clone or Download the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Sanju-1114/rock-paper-scissors.git
 
 
 
-## 📁 Project Structure
+### 2. 📁 Project Structure
 
 /rock-paper-scissors
 │
-├── rock-paper-scissors.html      # Main HTML file (not provided here)
-├── rock-paper-scissors.css       # Stylesheet for the game UI
-├── style.css       # Stylesheet for the game UI
-├── rock-paper-scissors.js        # Game logic
-├── script.js                     # Game hub navigation logic
+├── rock-paper-scissors.html       # 🧾 Main HTML structure of the game
+├── rock-paper-scissors.css        # 🎨 CSS file for styling the game UI
+├── rock-paper-scissors.js         # 🧠 JavaScript logic for gameplay (score, results)
+├── script.js                      # 🔁 Game hub redirection logic (switching between games)
+├── style.css                      # 🧰 Optional: Shared/global styles for multi-game projects
