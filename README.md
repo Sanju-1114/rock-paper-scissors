@@ -24,7 +24,7 @@ git clone https://github.com/Sanju-1114/rock-paper-scissors.git
 
 
 
-### 2. 📁 Project Structure
+📁 Project Structure
 
 /rock-paper-scissors
 │
