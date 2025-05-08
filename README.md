@@ -17,6 +17,7 @@ A fun, browser-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and 
 
 ## 🚀 Getting Started
 
+
 ### 1. 📁 Project Structure
 
 /rock-paper-scissors
@@ -32,3 +33,9 @@ A fun, browser-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and 
 
 ```bash
 git clone https://github.com/Sanju-1114/rock-paper-scissors.git
+```
+
+
+## Features that you can add
+
+- Make it's UI more intractive
