@@ -44,5 +44,5 @@ git clone https://github.com/Sanju-1114/rock-paper-scissors.git
 
 - You can change the background
 
-- You can add the better images for the stone , paper and scissors.
-  
+- You can add the better images for the stone, paper and scissors.
+
