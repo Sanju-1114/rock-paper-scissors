@@ -39,6 +39,7 @@ git clone https://github.com/Sanju-1114/rock-paper-scissors.git
 ## Features that you can add
 
 - Make it's UI more intractive
+
 - You can the score board look
 - You can change the background
 - You can add the better images for the stone , paper and scissors.
