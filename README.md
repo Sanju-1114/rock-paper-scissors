@@ -4,7 +4,7 @@ A fun, browser-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and 
 
 ---
 
-## 🧩 Features
+##  Features
 
 -  Easy click-to-play interface
 -  Real-time score tracking (User vs Computer)
