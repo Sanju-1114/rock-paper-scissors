@@ -6,12 +6,12 @@ A fun, browser-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and 
 
 ## 🧩 Features
 
-- 🎯 Easy click-to-play interface
-- 📈 Real-time score tracking (User vs Computer)
-- 🧠 Random computer choice generation
-- 🖼️ Dynamic UI feedback for win, loss, or draw
-- 🖱️ Hover effects and smooth styling
-- 🧭 Integrated with a game hub via `script.js`
+-  Easy click-to-play interface
+-  Real-time score tracking (User vs Computer)
+-  Random computer choice generation
+-  Dynamic UI feedback for win, loss, or draw
+-  Hover effects and smooth styling
+-  Integrated with a game hub via `script.js`
 
 ---
 
