@@ -18,7 +18,7 @@ A fun, browser-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and 
 ## 🚀 Getting Started
 
 
-### 1. 📁 Project Structure
+### 1.  Project Structure
 
 /rock-paper-scissors
 │
