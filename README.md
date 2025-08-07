@@ -1,4 +1,4 @@
-# 🎮 Rock Paper Scissors Game ✊📄✂️
+#  Rock Paper Scissors Game ✊📄✂️
 
 A fun, browser-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and **JavaScript**. This game is also part of a **multi-game hub** that allows users to switch between various classic games.
 
