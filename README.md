@@ -19,7 +19,7 @@ A fun, browser-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and 
 
 
 ### 1.  Project Structure
-
+```
 /rock-paper-scissors
 │
 ├── rock-paper-scissors.html       #  Main HTML structure of the game
@@ -27,7 +27,7 @@ A fun, browser-based Rock-Paper-Scissors game built with **HTML**, **CSS**, and 
 ├── rock-paper-scissors.js         #  JavaScript logic for gameplay (score, results)
 ├── script.js                      #  Game hub redirection logic (switching between games)
 ├── style.css                      #  Optional: Shared/global styles for multi-game projects
-
+```
 
 ### 2. Clone the Repository
 
